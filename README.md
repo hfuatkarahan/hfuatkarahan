@@ -30,11 +30,12 @@
 </br>
 
 ---
-<p>[![](https://visitcount.itsvg.in/api?id=hfuatkarahan&icon=5&color=0)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=hfuatkarahan&icon=5&color=0)](https://visitcount.itsvg.in)
 <br/>
 
+---
 
-![snake gif](https://github.com/hfuatkarahan/hfuatkarahan/blob/output/github-contribution-grid-snake.gif)
+https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
 
 
 
