@@ -35,7 +35,7 @@
 
 ---
 
-https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
+https://github.com/hfuatkarahan/hfuatkarahan/blob/output/github-contribution-grid-snake.gif
 
 
 
