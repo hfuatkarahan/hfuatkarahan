@@ -36,7 +36,7 @@
 ---
 
 https://github.com/hfuatkarahan/hfuatkarahan/blob/output/github-contribution-grid-snake.gif
-
+![snake gif](https://github.com/hfuatkarahan/hfuatkarahan/blob/output/github-contribution-grid-snake.gif)
 
 
 
