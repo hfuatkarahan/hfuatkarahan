@@ -20,8 +20,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=hfuatkarahan&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hfuatkarahan&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hfuatkarahan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </br>
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 🌐 Socials:
 <p align="left">
@@ -33,12 +39,8 @@
 [![](https://visitcount.itsvg.in/api?id=hfuatkarahan&icon=5&color=0)](https://visitcount.itsvg.in)
 <br/>
 
----
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake.svg">
-</picture>
+
+
 
 
