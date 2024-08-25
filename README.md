@@ -27,8 +27,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hfuatkarahan&theme=react&hide_border=false&include_all_commits=true&count_private=true"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hfuatkarahan&theme=react&hide_border=false" alt="hasanfuatkarahan"  /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hfuatkarahan&theme=react&hide_border=false&include_all_commits=true&count_private=true"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hfuatkarahan&theme=react&hide_border=false" alt="hasanfuatkarahan"  /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfuatkarahan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="hasanfuatkarahan" /> </p>
 
 
