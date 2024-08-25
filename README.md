@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/36/1473330033-giphy.gif?resize=640:* " alt="hasanfuatkarahan" />
+<img align="right" alt="Coding" width="350" src="https://hips.hearstapps.com/esquireuk.cdnds.net/16/36/1473330033-giphy.gif?resize=640:* " alt="hasanfuatkarahan" />
 
 💻 A passionate Game Developer from Turkey</br>
 
