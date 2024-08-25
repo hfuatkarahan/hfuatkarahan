@@ -13,7 +13,7 @@
 
 👯 I want to take part in projects where I can improve myself with larger teams</br>
 
-🌱 These days I'm learning how to create artificial intelligence in Unity</br>
+🌱 These days I'm examining the use of artificial intelligence in games</br>
 
 🎮 Here is my itch.io profile ➡️ **https://hfkarahan.itch.io/**
 <br/>
