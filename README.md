@@ -31,7 +31,6 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfuatkarahan&theme=react&hide_border=false" alt="hasanfuatkarahan" /> </p>
 </br>
 
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfuatkarahan/hfuatkarahan/output/github-contribution-grid-snake-dark.svg">
